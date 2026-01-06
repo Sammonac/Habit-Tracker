@@ -1,0 +1,5 @@
+{
+  "name": "Performance Habit Analytics",
+  "description": "A high-performance habit tracking dashboard with dynamic Recharts analytics and a 30-day completion matrix, featuring midnight glassmorphism styling.",
+  "requestFramePermissions": []
+}
